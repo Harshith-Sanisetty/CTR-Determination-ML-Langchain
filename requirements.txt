@@ -1,0 +1,16 @@
+joblib
+langchain
+langchain_google_genai
+seaborn
+pycountry_convert
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+xgboost
+lightgbm
+catboost
+tensorflow
+os
+
